@@ -2,4 +2,4 @@
 
 
 #ignore al files in .idea folder
-.idea/*
+.idea
