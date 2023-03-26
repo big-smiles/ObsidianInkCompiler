@@ -1,2 +1,5 @@
 /venv/
-.idea/
+
+
+#ignore al files in .idea folder
+.idea/*
